@@ -26,6 +26,8 @@ function Todo() {
     setItems(newItems);
   };
 
+  //あいうえお
+
   return (
     <div className="panel">
       <div className="panel-heading">⚛️ React ToDo</div>
